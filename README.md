@@ -6,7 +6,7 @@ A visually accurate and responsive **Discord landing page clone** built using **
 
 ## 🔗 Live Demo
 
-[View Live Site](https://lucent-biscuit-15d9f2.netlify.app/)
+[View Live Site]()
 
 ---
 
