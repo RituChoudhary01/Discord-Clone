@@ -6,7 +6,7 @@ A visually accurate and responsive **Discord landing page clone** built using **
 
 ## 🔗 Live Demo
 
-[View Live Site]()
+[View Live Site](https://discord-clone-lac-beta.vercel.app/#)
 
 ---
 
@@ -29,4 +29,8 @@ A visually accurate and responsive **Discord landing page clone** built using **
 - **Google Fonts** 
 
 ---
+## 👩‍💻 Author
+
+Made with ❤️ by [Ritu Choudhary](https://github.com/RituChoudhary01)  
+Follow me on [GitHub](https://github.com/RituChoudhary01) for more projects and updates.
 
